@@ -1,1 +1,5 @@
-My first readme file.
+Learning git…
+How to add files to git,
+How to commit my changes,
+How to push to git,
+Changing my branches…
